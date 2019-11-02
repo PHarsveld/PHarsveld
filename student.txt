@@ -1,0 +1,4 @@
+
+Student name: 		Pip Harsveld
+Student number:		646038
+Student class:		inf1C
